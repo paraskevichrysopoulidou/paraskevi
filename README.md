@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paraskevi
+- 👋 Hi, I’m @paraskevichrysopoulidou
 - 👀 I’m interested in Data analysis.
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me paraskevichrysopoulidou@gmail.com
